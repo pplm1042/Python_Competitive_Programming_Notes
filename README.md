@@ -5,3 +5,4 @@
 * [투 포인터 알고리즘](https://github.com/pplm1042/Python_Competitive_Programming_Notes/blob/main/two_pointer.py)
 
 ## 개발형 코딩테스트 대비
+* [웹 요청하기](https://github.com/pplm1042/Python_Competitive_Programming_Notes/blob/main/http_get_example.py)
