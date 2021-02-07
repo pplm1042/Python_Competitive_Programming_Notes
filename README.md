@@ -5,4 +5,8 @@
 * [투 포인터 알고리즘](https://github.com/pplm1042/Python_Competitive_Programming_Notes/blob/main/two_pointer.py)
 
 ## 개발형 코딩테스트 대비
-* [웹 요청하기](https://github.com/pplm1042/Python_Competitive_Programming_Notes/blob/main/http_get_example.py)
+* [웹 요청](https://github.com/pplm1042/Python_Competitive_Programming_Notes/blob/main/http_get_example.py)
+* [JSON 인코딩](https://github.com/pplm1042/Python_Competitive_Programming_Notes/blob/main/json_encoding_example.py)
+* [JSON 디코딩](https://github.com/pplm1042/Python_Competitive_Programming_Notes/blob/main/json_decoding_example.py)
+* [JSON 파일 생성](https://github.com/pplm1042/Python_Competitive_Programming_Notes/blob/main/json_file_create_example.py)
+* [REST API 호출](https://github.com/pplm1042/Python_Competitive_Programming_Notes/blob/main/rest_api_example.py)
