@@ -4,7 +4,7 @@
 * [구간 합 빠르게 계산](https://github.com/pplm1042/Python_Competitive_Programming_Notes/blob/main/prefix_sum.py)
 * [투 포인터 알고리즘](https://github.com/pplm1042/Python_Competitive_Programming_Notes/blob/main/two_pointer.py)
 * [배열을 문자열로](https://github.com/pplm1042/Python_Competitive_Programming_Notes/blob/main/list_to_string.py)
-* 
+
 ## 개발형 코딩테스트 대비
 * [웹 요청](https://github.com/pplm1042/Python_Competitive_Programming_Notes/blob/main/http_get_example.py)
 * [JSON 인코딩](https://github.com/pplm1042/Python_Competitive_Programming_Notes/blob/main/json_encoding_example.py)
