@@ -12,3 +12,8 @@
 * [JSON 디코딩](https://github.com/pplm1042/Python_Competitive_Programming_Notes/blob/main/json_decoding_example.py)
 * [JSON 파일 생성](https://github.com/pplm1042/Python_Competitive_Programming_Notes/blob/main/json_file_create_example.py)
 * [REST API 호출](https://github.com/pplm1042/Python_Competitive_Programming_Notes/blob/main/rest_api_example.py)
+
+
+## 기술 면접 대비
+
+* Flutter의 상태관리는 Stateful, Bloc, Provider, GetX를 이용해서 구현할 수 있습니다.
